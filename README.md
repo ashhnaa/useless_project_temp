@@ -1,95 +1,47 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# CreepItReal 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## Tarot Reading with a twist!!
+### Team Name: Runtime Errors
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Ashna Vijayan - College Of Engineering, Trivandrum
+- Member 2: Jumana K M - College Of Engineering, Trivandrum
+- Member 3: Catharin Raju - College Of Engineering, Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project is an irreverent twist on tarot reading, offering a "nonsense" experience where, no matter which card users click, they’re met with the same bold image of a tarot card featuring a middle finger up. This single-image reveal adds a humorous surprise, turning the act of selecting any card into a playful mockery of traditional fortune-telling.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Future Prediction using Tarots
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Selecting a card from the deck gives you a single, irreverent outcome, stripping away any pressure to interpret meanings and playfully mocking the idea of destiny itself.
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
+- HTML
+- CSS
+- JavaScript
+- SVG
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+!"USELESS/Images/img/1.jpg"
+Landing Page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+!"USELESS/Images/img/2.jpg"
+Spread of Tarot cards
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+!"USELESS/Images/img/3.jpg"
+The Card displayed when a tarot card is clicked on
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+"USELESS/1.html - Code - Visual Studio Code 2024-11-02 22-38-59.mp4"
+Video is the demonstration of workflow of our website
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
