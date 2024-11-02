@@ -1,0 +1,166 @@
+body {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  font-family: creepster;
+  background-image: url('C:/Users/catha/Code/USELESS/Images/img/WhatsApp Image 2024-11-01 at 11.28.04 PM.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.section { display: none; } 
+      .active { display: block; } 
+
+     
+      h1 {
+        font-family: "Creepster", system-ui;
+        margin: 50;
+        font-weight: bold;
+        
+        font-size: 150px;
+        text-align:center;
+        color: #680000; 
+        text-shadow: 1px 1px 0 #680000; 
+      } 
+    
+
+.goo {
+  
+  position: relative;
+  top: 40%;
+  width: 600px;
+  margin: auto;
+  transform: translateY(-60%);
+  filter: url(#goo);
+}
+
+.drop {
+  opacity: 0;
+  width: 20px;
+  height: 30px;
+  background: #680000;
+  border-radius: 1000px;
+  position: absolute;
+  animation: drip 8s infinite;
+  border: 2px solid #680000; 
+  border-top: none;
+  top: 210px;
+  left: 2000px;
+}
+
+.drop:nth-child(2) {
+  left: 800px;
+  animation-delay: 3s;
+}
+
+.drop:nth-child(3) {
+  left: 1000px;
+  animation-delay: 5s;
+}
+
+.drop:nth-child(4) {
+  left: 1600px;
+  animation-delay: 6s;
+}
+
+.drop:nth-child(5) {
+  left: 700px;
+  top: 205px;
+  animation-delay: 1.5s;
+}
+
+.drop:nth-child(6) {
+  left: 830px;
+  animation-delay: 5s;
+}
+
+@keyframes drip {
+  0% {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  h1 {
+    font-family: "Creepster", system-ui;
+    margin: 50;
+    font-weight: bold;
+    font-size: 150px;
+    text-align: center;
+    color: #680000;
+    text-shadow: 1px 1px 0 #680000;
+    overflow: hidden;
+    white-space: nowrap; 
+    border-right: 4px solid #680000; 
+    animation: blinkCursor 0.7s steps(40) infinite normal;
+}
+body {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+  overflow: hidden;
+  font-family: 'Creepster', sans-serif;
+  background-image: url('C:/Users/Admin/Documents/projects/useless pro/horror_background.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  font-family: "Creepster", system-ui;
+  font-weight: bold;
+  font-size: 150px;
+  color: #680000; 
+  text-shadow: 1px 1px 0 #680000; 
+}
+
+
+@keyframes blinkCursor {
+    0%, 100% { border-color: transparent; }
+    50% { border-color: #680000; }
+}
+
+  35% {
+    opacity: 1;
+    transform: translateY(30px);
+  }
+  
+  50% {
+    transform: translateY(110vh);
+  }
+  
+  100% {
+    transform: translateY(110vh);
+  }
+}
+
+
+
+.button-container {
+  display: flex;              
+  justify-content: center;   
+  align-items: center;                 
+}
+
+  #redirectButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #680000;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 6px 0px #680000; 
+    position: relative;
+    text-align: center;
+  }
+  
+  #redirectButton:hover {
+    background-color: #a80808;
+    transform:scale(1.1)
+  }
+  #redirectButton:active {
+    transform: translateY(4px); 
+    box-shadow: 0px 2px 0px #680000; 
+  }
